@@ -1,0 +1,23 @@
+
+body {
+    color:rgb(165, 165, 165);
+    margin: 20px;
+    padding: 15px;
+    background-color: black;
+    
+}
+
+.miparrafo {
+    font-style: italic;
+    text-indent: 15px;
+}
+
+.miparrafo span {
+    color: brown;
+}
+
+hr {
+    border-color:darkgoldenrod ;
+    width: 50%;
+   
+}
